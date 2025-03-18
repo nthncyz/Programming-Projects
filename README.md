@@ -1,31 +1,43 @@
-# 🎯 My C++ University Projects  
+# 🎯 My C++ University Projects - 2024 - 2025
 
-This repository showcases a collection of my **C++ projects** developed for my university coursework, demonstrating proficiency in **fundamental and advanced programming concepts**.  
-
----
-
-## 🔹 **Core Programming Skills**  
-
-- 🛠 **Object-Oriented Programming (OOP)** – Encapsulation, inheritance, polymorphism  
-- 🗂 **Data Structures & Algorithms** – Arrays, linked lists, stacks, sorting/searching techniques  
-- 🔢 **Mathematical & Logical Computation** – Numerical analysis, bitwise operations  
-- ⚡ **Concurrency & Multithreading** – Parallel execution, thread synchronization  
-- 📝 **File Handling & I/O Streams** – `fstream`, `ifstream`, `ofstream` for structured data management  
-- 🧠 **Memory Management** – Dynamic allocation, pointer arithmetic, RAII principles  
-- 🚀 **Optimization Techniques** – Compiler flags, profiling, performance tuning  
-- 🔍 **Error Handling & Debugging** – Exception handling, debugging using GDB  
+This repository is a practical exploration of C++ development, merging my coursework with real-world techniques.
 
 ---
 
-## 🔹 **Development & Tooling**  
+## 🔹 Core Skills
 
-Each project is compiled and tested using `g++`, incorporating:  
-
-- ✅ **Version Control (Git)** – Branching strategies, commit structuring, repository management  
-- 🔄 **Build Automation** – Makefiles, shell scripting for streamlined compilation workflows  
-- 🏗 **Cross-Platform Compatibility** – Writing portable code for Linux, macOS, and Windows  
-- 📜 **Software Engineering Best Practices** – Modular design, clean code, and documentation standards  
+- **Object Oriented Programming:** Encapsulation, Inheritance, Polymorphism
+- **Data Structures:** Arrays, Linked Lists, Stacks, Sorting, Searching
+- **Math & Logic:** Numerical Analysis, Bitwise Operations  
+- **Concurrency:** Parallel Execution, Threading  
+- **File I/O:** fstream, ifstream, ofstream  
+- **Memory:** Dynamic Allocation, Pointers  
+- **Optimization:** Compiler Flags, Profiling  
+- **Debugging:** Exception Handling, GDB  
 
 ---
 
-This repository serves as a **hands-on exploration of C++ software development**, integrating both foundational and **industry-relevant programming techniques**.  
+## 🔹 Tools & Practices
+
+- **Git:** Version Control, Branching, Commits
+- **VSC:** Code editing, debugging, and integrated terminal
+- **Build:** Makefiles, Shell Scripting  
+- **Cross-Platform:** Linux, macOS, Windows  
+- **Best Practices:** Clean, Modular, Documented
+
+---
+
+
+## 📌 Project Summaries
+
+- **Profit Doubling Calculator:** Computes profit growth over four years.  
+- **Time Conversion Program:** Converts days into hours, minutes, and seconds.  
+- **Store Receipt Simulation:** Calculates subtotal, tax, and total for 5 items.  
+- **Circle Area Calculator:** Computes area from a user-input radius.  
+- **Squares in a Circle:** Determines squares that fit inside a circle.  
+- **Rectangle Area Calculator:** Calculates area from length and width.  
+- **Event Planner App:** Gathers event details and outputs a structured summary.
+
+# 🚧 Work in Progress
+
+As I proceed with my coursework, this repo will be updated during the course of the year with new **C++ projects** covering both beginning and advanced programming concepts.
