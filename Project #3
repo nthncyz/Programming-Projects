@@ -3,7 +3,8 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
     double radius, area;
     const double PI = 3.14;
 
@@ -13,6 +14,11 @@ int main(){
     area = PI * radius * radius;
 
     cout << fixed << setprecision(2) << "The area of the circle is: " << area << " square meters" << endl;
-    
+
+    // Pause execution before exit
+    cout << "\nPress Enter to exit...";
+    cin.ignore();  // Ignore any leftover newline characters
+    cin.get();  // Wait for user input before closing
+
     return 0;
 }
